@@ -1,0 +1,57 @@
+Metadata-Version: 2.4
+Name: thonny-SystemPowershell
+Version: 0.1
+Summary: Add a buttom to open system powershell for Thonny IDE in Windows
+Home-page: https://github.com/Jysume/thonny-SystemPowershell
+Author: Jysume
+Author-email: jysume@outlook.com
+License: MIT
+Keywords: IDE education programming Thonny development shell powershell
+Platform: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Education
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Embedded Systems
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: thonny>=3.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: platform
+Dynamic: requires-dist
+Dynamic: summary
+
+# Thonny-SystemPowershell
+
+>   Add a buttom to open system powershell for [Thonny](https://thonny.org) IDE in Windows(Support English and Chinese)
+
+![image-20250825194151726](./res/image-20250825194151726.png)
+
+<img src="./res/image-20250825195123952.png" alt="image-20250825195123952" style="zoom:110%;" />
+
+## Installation
+
+#### Install using Thonny
+
+1. Go to `Thonny → Tools → Manage plug-ins`
+2. Search for `thonny-SystemPowershell`
+3. Click `Install`
+
+## Enjoy the plugin
+
+1. After installing, close and open Thonny, so the plugin is loaded
+2. Go to `Thonny → Tools `
+3. Click `Open system powershell...`
