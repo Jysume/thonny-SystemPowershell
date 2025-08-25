@@ -1,8 +1,8 @@
-# Thonny-SystemPowershell
+# [Thonny-SystemPowershell](https://github.com/Jysume/thonny-SystemPowershell)
 
 >   Add a buttom to open system powershell for [Thonny](https://thonny.org) IDE in Windows(Support English and Chinese)
 
-![image-20250825194151726](./res/image-20250825194151726.png)
+<img src="./res/image-20250825194151726.png" alt="image-20250825194151726" />
 
 <img src="./res/image-20250825195123952.png" alt="image-20250825195123952" style="zoom:110%;" />
 
